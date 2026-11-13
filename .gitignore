@@ -1,0 +1,15 @@
+# Build output
+/target/
+
+# Local dev scratch
+.superpowers/
+*.log
+
+# Runtime caches & credentials — NEVER commit these
+credentials.json
+playback-credentials.json
+config.toml
+
+# OS noise
+Thumbs.db
+Desktop.ini
